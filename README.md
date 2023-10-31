@@ -1,1 +1,1 @@
-# credit-risk_classification_challenege
+# credit_risk_classification_challenege
